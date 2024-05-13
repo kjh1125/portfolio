@@ -12,8 +12,8 @@
       <property name="host" value="smtp.gmail.com" />
       <property name="port" value="587" />
       <property name="defaultEncoding" value="utf-8"/>
-      <property name="username" value="kjhwinter@gmail.com" />
-      <property name="password" value="ejhvvzxavnrtluhn" />
+      <property name="username" value="--" /> //이메일 주소
+      <property name="password" value="--" /> //실제 이메일 비밀번호가 아닌 메일 지원 시 관련 비밀번호 등록
       <property name="javaMailProperties">
          <props>
                 <prop key="mail.transport.protocol">smtp</prop>
